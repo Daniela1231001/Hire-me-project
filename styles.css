@@ -1,0 +1,24 @@
+body {
+    background:linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+}
+
+h1 {
+    color:blue;
+    font-family: 'Dancing Script', cursive;
+    }
+h2 {
+    font-family: 'Satisfy', cursive;
+    color:aqua;
+    }
+li {
+    font-family: 'Dancing Script', cursive;
+    color:purple;
+   }  
+p {
+    color:Black;
+    font-family: 'Dancing Script', cursive;
+  }
+h3 {
+    font-family: 'Dancing Script', cursive;
+    color:grey;
+}
